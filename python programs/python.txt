@@ -1,0 +1,3 @@
+self kya karta hai - obj call krta hai uski sari details self mai chali jati hai  
+
+
