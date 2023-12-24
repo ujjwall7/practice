@@ -1,7 +1,7 @@
-#Access modifiers
+# Access modifiers
 # public (jisko object bahar se variables and methods ko call kar skta hai),
-#protected (), 
-#private (obj bahar se nhi call kr skta private __ lga kar karte hai)
+# protected (), 
+# private (obj bahar se nhi call kr skta private __ lga kar karte hai)
 
 from random import randint
 
