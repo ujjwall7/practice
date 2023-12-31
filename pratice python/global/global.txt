@@ -1,0 +1,19 @@
+Global Variables
+
+Python mein, global variables woh variables hote hain jo kisi bhi 
+function ya class ke bahar define hote hain. 
+Iska matlab hai ki aap inhein kahin bhi code mein istemal 
+kar sakte hain, chahe woh kisi bhi function mein ho ya class mein ho.
+
+
+
+
+
+
+
+
+
+
+
+
+

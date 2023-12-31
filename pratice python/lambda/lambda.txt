@@ -1,0 +1,14 @@
+lambda ek anonymous function hai
+jo ki any number of arguments leta hai, but can only have one expression.
+
+
+
+
+
+
+
+
+
+
+
+
