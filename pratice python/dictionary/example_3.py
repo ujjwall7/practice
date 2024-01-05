@@ -19,8 +19,13 @@ new_dictionary = my_dict.copy()
 print(new_dictionary)
 
 # Merge two dictionaries.
-merged_dict = {**my_dict, **new_dictionary}
+dict_1 = {'a' : 1, 'b': 2, 'c' : 3}
+dict_2 = {'d' : 100, 'e': 2, 'f' : 3}
+
+
+merged_dict = {**dict_1, **dict_2}
 print(merged_dict)
+
 
 
 
