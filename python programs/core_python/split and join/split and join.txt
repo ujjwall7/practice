@@ -1,5 +1,5 @@
 SPLIT - split only ans in list -> []
 JOIN - join only ans in string -> "", list leke string
-                number nhi aa skta list mai -> my_list = ["abc", "XYZ", "Ujjwal", "Gunjan", "om namah shivaay", 45] - > WRONG X
+                number nhi aa skta list mai -> my_list = ["abc", "XYZ", "Ujjwal", "Gunjan", "om namah shivaay", 45] - > WRONG X,
 
 
