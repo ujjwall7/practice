@@ -1,2 +1,4 @@
 key: UNIQUE, STRING, INTEGER, FLOAT HI HO SKTA HAI 
 value : repeat ho skti hai  , ANY DATA TYPE
+None is a datatype
+
